@@ -60,9 +60,20 @@ p {
 	
 }
 #touxiang:hover{
-	
 	background-size: 110% 110%;
 }
-
+#touxiang:hover >.blog{
+	display:block;
+}
+.blog{
+	display:none;
+	width:120px;
+	height:120px;
+	text-align: center;
+	color:white;
+	text-decoration: none;
+	padding-top:50px;
+	
+}
 
 
